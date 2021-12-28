@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:sliding_switch/sliding_switch.dart';
-import 'package:flutter_toggle_tab/flutter_toggle_tab.dart';
 import 'package:toggle_switch/toggle_switch.dart';
 
 class PizzaScreen extends StatefulWidget {
